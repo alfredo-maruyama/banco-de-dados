@@ -1,0 +1,1 @@
+create schema `db data base_curso_java`;

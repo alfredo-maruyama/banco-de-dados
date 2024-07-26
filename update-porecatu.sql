@@ -1,0 +1,1 @@
+update `cidade` set `nome` = 'porecatu' where `id` = 3062;
